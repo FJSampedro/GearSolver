@@ -1,3 +1,6 @@
+Fork to adapt for private use. All rights belong to the original developer. Please visit dsuarezv/GearSolver.
+
+
 Cycloid gear graphic calculator
 ===============================
 
